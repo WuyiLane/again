@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa9cadb-4923-497c-bcc3-85dbe4f662ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index(2).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index(3).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="bfa9cadb-4923-497c-bcc3-85dbe4f662ed" name="Default Changelist" comment="feta &quot;xuexih,p,hr,img,br&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +72,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599098072221</updated>
       <workItem from="1599098073439" duration="4202000" />
-      <workItem from="1599182080418" duration="12367000" />
+      <workItem from="1599182080418" duration="14042000" />
     </task>
+    <task id="LOCAL-00001" summary="feta &quot;xuexih,p,hr,img,br&quot;">
+      <created>1599286825645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599286825646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,11 +98,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feta &quot;xuexih,p,hr,img,br&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feta &quot;xuexih,p,hr,img,br&quot;" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="146" y="0" key="SettingsEditor" timestamp="1599281081564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="146" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599281081564" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599287387143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599287387143" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599280704498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
