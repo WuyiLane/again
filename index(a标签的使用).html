@@ -1,10 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--
+    a标签的作用: 用于控制页面与页面的跳转
+    a标签的格式:<a href="指定需要跳转的目标界面"></a>
+    需要展现用户查看的内容
+    a标签必须有 href 属性 指定一个url地址 不然不知道如何跳转
+    a标签不仅可以控制文字点击,也可以控制图片点击
+    那么必须在地址前面加上http:// 或者 https://
+
+    (2) 可以跳转本地的地址 base 标签 _self _blank
+    (3) a 标签中的title属性,和img 属性一样 都是用来控制鼠标悬浮提示文本的
+-->
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+    <a href="http://www.baidu.com">百度</a>
+    <a href="http://www.taobao.com">淘宝</a>
+    <!-- a标签里使用 img-->
+    <a href="https://re.taobao.com/action_ecpm_home?ali_trackid=19_3a703d238e9eccbe8c1d8c754c90c86d" title="提示一下我这个是什么">
+        <img src="/assets/view-from-a-blue-moon-trailer-hd.jpg" alt="" width="100">
+    </a>
+    <!-- 要使用相对路径 可以跳转本地的网页-->
+    <a href="index(2).html" target="_blank">点击一下会有惊喜哦</a><br/><br/><br/><br/><br/>
+    <!-- 在本网页中跳转 _self-->
+    <!-- 在本网页新的调转跳转 target _blank-->
+
+
+    <!-- 百度菜单的导航条-->
+    <a href="https://www.nuomi.com">糯米</a>
+    <a href="http://news.baidu.com/">新闻</a>
+    <a href="https://www.hao123.com/">hao123</a>
+    <a href="https://map.baidu.com/">地图</a>
+    <a href="https://haokan.baidu.com/?sfrom=baidu-top">视频</a>
+    <a href="https://tieba.baidu.com/index.html">贴吧</a>
+    <a href="https://xueshu.baidu.com/">学术</a>
 </body>
 </html>

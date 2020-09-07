@@ -19,7 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa9cadb-4923-497c-bcc3-85dbe4f662ed" name="Default Changelist" comment="feta &quot;xuexih,p,hr,img,br&quot;" />
+    <list default="true" id="bfa9cadb-4923-497c-bcc3-85dbe4f662ed" name="Default Changelist" comment="feta &quot;xuexih,p,hr,img,br&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(3).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(3).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(a标签的使用).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(a标签的使用).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(京东底部定义列表).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(京东底部定义列表).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(假链接).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(假链接).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(定义列表).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(定义列表).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(定义列表的练习).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(定义列表的练习).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(无序列表).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(无序列表).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(无序列表测试练习).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(无序列表测试练习).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(无序列表练习2).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(无序列表练习2).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(无序列表练习3).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(无序列表练习3).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(有序列表).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(有序列表).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(表格的使用).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(表格的使用).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(路径的问题).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(路径的问题).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(锚点).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(锚点).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index(锚点的测试界面).html" beforeDir="false" afterPath="$PROJECT_DIR$/index(锚点的测试界面).html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +90,11 @@
       <option name="presentableId" value="Default" />
       <updated>1599098072221</updated>
       <workItem from="1599098073439" duration="4202000" />
-      <workItem from="1599182080418" duration="14042000" />
+      <workItem from="1599182080418" duration="23830000" />
+      <workItem from="1599322280198" duration="25000" />
+      <workItem from="1599354948938" duration="7020000" />
+      <workItem from="1599389662930" duration="5860000" />
+      <workItem from="1599442720080" duration="516000" />
     </task>
     <task id="LOCAL-00001" summary="feta &quot;xuexih,p,hr,img,br&quot;">
       <created>1599286825645</created>
@@ -97,23 +119,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feta &quot;xuexih,p,hr,img,br&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="feta &quot;xuexih,p,hr,img,br&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599395778730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599395778730" />
     <state x="146" y="0" key="SettingsEditor" timestamp="1599281081564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="146" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599281081564" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599314120848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1599314120848" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599287387143">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599287387143" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599280704498">
+    <state x="42" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599308687551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599280704498" />
+    <state x="42" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1599308687551" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599393832739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599393832739" />
   </component>
 </project>
