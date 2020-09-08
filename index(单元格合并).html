@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 
+        水平方向单元格合并, // colspan 在水平方向上, 
+        由于把某个单元格当成两个单元格来看待,所以会多出一个单元格,要把相邻的一个删除掉,
+        单元格合并,都是向下向后向后合并
+        垂直方向单元格合并,//
+     -->
+    <table bgcolor="black" align="center" width="500" height="300">
+        <tr bgcolor="white" width="500px" hight="300px">
+            <td colspan="2"></td>
+            <!-- <td></td> -->
+            <td></td>
+        </tr>
+        <tr  bgcolor="white">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr  bgcolor="white">
+            <td></td>
+            <td colspan="2"></td>
+            <!-- <td></td> -->
+        </tr>
+    </table>      
+    
+    <table bgcolor="black" align="center" width="500" height="300">
+        <tr bgcolor="white" width="500px" hight="300px">
+            <td colspan="2"></td>
+            <!-- <td></td> -->
+            <td></td>
+        </tr>
+        <tr  bgcolor="white">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr  bgcolor="white">
+            <td></td>
+            <td colspan="2"></td>
+            <!-- <td></td> -->
+        </tr>
+    </table>   
+</body>
+</html>

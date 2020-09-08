@@ -11,6 +11,9 @@
     表头信息,thead
     主体信息,tbody 如果编写的代码时,没有添加tbody ,系统会自动添加
     页尾信息,tfoot
+    
+    如果指定了thead和tfoot的高度,那么在修改表格时,thead和tfoot有自己的高度
+    不会随着表格的变化而变化
 
     <table>-->
 <!--    <caption>-->
@@ -36,7 +39,7 @@
 <!--        </tr>-->
 <!--    </tfoot>-->
 <!--</table>-->
-<table>
+<table border="1px" width="500px" hight="500px">
     <caption>
         学生信息
     </caption>
@@ -46,6 +49,22 @@
             <th>年龄</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td>张三</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>王五</td>
+            <td>15</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>2</td>
+            <td>30</td>
+        </tr>
+    </tfoot>
 </table>
 </body>
 
