@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 点击输入框 有聚焦效果
+    实现原理：
+    将文字利用label标签包裹起来
+    给输入框添加一个id属性
+    在label标签中通过for属性和输入框中的id 进行绑定
+    输入框如果绑定 可以以互换的方式绑定
+    -->
+    <form action="https://www.baidu.com">
+        <label for="acount">账号:</label><input type="text" name="aaa" id="acount"><br/>
+        <label for="pwd">密码:</label><input type="password" id="pwd"><br/>
+        <input type="reset" value="注册按钮">
+        <input type="submit" value="提交按钮">
+        <!-- 
+            用于隐藏 收集用户数据
+         -->
+        <input type="hidden" name="123" value="codes">
+        <label for="pwds">
+            密码:<input type="password" id="pwds"><br/>
+        </label>
+    </form>
+</body>
+</html>
+<!-- 1750413845@qq.com hwja1a2a3 -->

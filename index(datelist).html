@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        textarea{
+            resize: none;
+            /*  不能无限拉伸 */
+        }
+    </style>
+</head>
+<body>
+    <!-- 
+        h5标签使用: 可以给输入框绑定待选项 可以实现待选项
+     -->
+     <!-- <datalist>
+         <option value="">0</option>00
+     </datalist>     -->
+    
+     <!--  H5 新增的类型 -->
+     <!-- 使用list属性绑定 -->
+     <input type="text" list="error">
+      <datalist id="error">
+          <!--  添加id 属性 实现双向绑定 -->
+        <option value="雪佛兰"></option>
+        <option value="宾利"></option>
+        <option value="桑塔纳"></option>
+     </datalist>  
+        <!--  H5 新增的类型
+        email 通过正则表达式 看看是否为邮箱
+        url 可以自动校验输入的内容是否为url
+        number 输入框只能输入我们的数字
+        date 可以通过日历来选择我们的时间
+        color 可以通过取色板来选择我们的颜色
+        select 下拉列表
+        texttarea
+        -->
+        邮箱:<input type="email">
+        <input type="submit">
+        域名:<input type="url">
+        <input type="submit">
+        电话号码:<input type="number">
+        <input type="submit">
+
+        时间:<input type="date">
+        <input type="submit">
+        颜色:<input type="color">
+        <input type="submit">
+        <br/>
+        <!-- 
+            下拉列表 默认显示列表 不让用户输入特殊情况也有 默认值 selected·
+             label 可以区分 列表的形式optgroup
+         -->
+        <select name="" id="">
+        <optgroup value="" label="青岛">
+            <option value="">市南区</option>
+            <option value="">市北区</option>
+            <option value="">城阳区</option>
+            <option value="" selected>黄岛区</option>
+        </optgroup>
+        <optgroup value="" label="济南">
+            <option value="">天桥区</option>
+            <option value="">槐荫区</option>
+            <option value="">长青区</option>
+        </optgroup>
+        </select>
+        <!-- 输入框可以无限换行texttarea   可以修改宽度和高度 4列 5行数据
+            虽然指定输入框的行数和列数 但是还是可以无限的向下输入
+        -->
+        <textarea cols="4" rows="5">
+
+        </textarea>   
+</body>
+</html>
